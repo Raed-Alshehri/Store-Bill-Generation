@@ -1,0 +1,11 @@
+Apples 10.50
+Bananas 12.25
+Cherries 25.00
+Donuts 10.00
+Eggs 2.50
+Flowers 15.00
+Grapes 20.00
+Honey 150.00
+Icecream 50.00
+JavaCoffee 250.00
+Zafron 350.00
